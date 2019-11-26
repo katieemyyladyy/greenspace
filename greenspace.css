@@ -40,7 +40,8 @@ body {background-color: #393939;}
 		border: 10px #008658;
 		border-style: ridge;}
 
-		.boxy {width: 830px;
+		.boxy {width: 60%;
+			min-width: 800px;
 		margin: 25px;
 		margin-top: 10px;
 		text-align: left;
@@ -52,7 +53,8 @@ body {background-color: #393939;}
 		border: 10px #008658;
 		border-style: groove;}
 
-		.foxy {width: 425px;
+		.foxy {width: 30%;
+			min-width: 350px;
 			height: 675px;
 			margin-top: 10px;
 					text-align: left;
